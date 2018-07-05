@@ -1,0 +1,31 @@
+{
+  "name": "live-viewer-and-compiler-sass",
+  "version": "1.0.0",
+  "description": "SASS compiler and real time view changes in to browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewLeontev/live-viewer-and-compiler-sass.git"
+  },
+  "keywords": [
+    "sass",
+    "compiler",
+    "live",
+    "view",
+    "sass",
+    "scss",
+    "real",
+    "time",
+    "browser",
+    "sync"
+  ],
+  "author": "Andrew Leontev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewLeontev/live-viewer-and-compiler-sass/issues"
+  },
+  "homepage": "https://github.com/AndrewLeontev/live-viewer-and-compiler-sass#readme"
+}
