@@ -4,7 +4,7 @@
   "description": "SASS compiler and real time view changes in to browser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/AndrewLeontev/live-viewer-and-compiler-sass/issues"
   },
-  "homepage": "https://github.com/AndrewLeontev/live-viewer-and-compiler-sass#readme"
+  "homepage": "https://github.com/AndrewLeontev/live-viewer-and-compiler-sass#readme",
+  "dependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1"
+  }
 }
